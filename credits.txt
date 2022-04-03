@@ -1,0 +1,15 @@
+
+CREDITS
+
+Bootstrap
+http://getbootstrap.com/
+
+Images
+http://unsplash.com/
+
+https://picjumbo.com/
+
+
+OwlCarousel
+
+http://www.owlcarousel.owlgraphic.com/
